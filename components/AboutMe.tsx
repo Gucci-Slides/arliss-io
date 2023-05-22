@@ -32,7 +32,7 @@ export default function AboutMe() {
 				<h1 className='font-black text-4xl sm:text-5xl text-center tracking-wide'>
 					I&apos;m just a
 					<br />
-					<span className='text-emerald-400'>Software Engineer</span>
+					<span className='text-emerald-800'>Software Engineer</span>
 					<br />
 					<p className='mt-1'>trying to suck less.</p>
 				</h1>
