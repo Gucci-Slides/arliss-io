@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost:3000/favicon.ico</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/next.js</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/nextjs</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/new</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/video</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/ISR</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/tags/custom-image</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/rename-blog</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/new</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/video</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/ssg-ssr</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/revalidate-2</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/custom-image</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost:3000/blog/pre-rendering</loc><lastmod>2023-05-22T06:55:44.189Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
