@@ -34,7 +34,7 @@ export default function AboutMe() {
 					<br />
 					<span className='text-emerald-800'>Software Engineer.</span>
 					<br />
-					<p className='mt-1'>I fail. I learn. I grow.</p>
+					<p className='mt-1'>I learn. I grow. I achieve.</p>
 				</h1>
 				<div className='border border-black mt-8 p-6 rounded-2xl text-base gap-6'>
 					<div className='leading-6 text-lg mb-4'>
